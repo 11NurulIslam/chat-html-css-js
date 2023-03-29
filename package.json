@@ -1,0 +1,14 @@
+{
+  "name": "chat51",
+  "version": "0.0.0",
+  "description": "Chat51",
+  "main": "server.js",
+  "author": {
+    "name": "Oli Ahmed Bir Bikrom"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "formidable": "^1.2.6",
+    "socket.io": "2.0"
+  }
+}
